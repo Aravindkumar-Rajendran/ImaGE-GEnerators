@@ -1,4 +1,7 @@
-# ImaGE-GEnerators
+# Radiant
+
+## Text to Image Generation
+
 List of Image generation, Text to image and other graphics generation models
 
 OpenAI Dalle 2 - https://openai.com/dall-e-2/
