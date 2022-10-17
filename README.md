@@ -10,4 +10,4 @@ Google Imagen - https://imagen.research.google/
 
 Google Parti - https://parti.research.google/
 
-Stabilty.ai's Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
+MidJourney's Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
