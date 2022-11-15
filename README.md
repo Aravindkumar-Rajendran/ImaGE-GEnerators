@@ -10,4 +10,6 @@ Google Imagen - https://imagen.research.google/
 
 Google Parti - https://parti.research.google/
 
-MidJourney's Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
+Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+MidJourney's - https://www.midjourney.com/ | https://discord.com/invite/midjourney
