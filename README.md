@@ -22,6 +22,6 @@ List of Text to Video generation models and projects
 
 CogVideo - https://github.com/THUDM/CogVideo
 
-ImagenVideo - https://imagen.research.google/ 
+ImagenVideo - https://imagen.research.google/video/
 
 Make-A-video - https://makeavideo.studio/
