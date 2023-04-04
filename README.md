@@ -4,21 +4,28 @@
 
 List of Image generation, Text to image and other graphics generation models
 
+
+### Open Source
+
+Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+
+### Closed Source
+
 OpenAI Dalle 2 - https://openai.com/dall-e-2/
+
+MidJourney's - https://www.midjourney.com/ | https://discord.com/invite/midjourney
 
 Google Imagen - https://imagen.research.google/
 
 Google Parti - https://parti.research.google/
 
-Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
-
-MidJourney's - https://www.midjourney.com/ | https://discord.com/invite/midjourney
-
-
 
 ## Text to Video Generation
 
 List of Text to Video generation models and projects
+
+Runway - Text to Video - Gen 1 and Gen 2 (coming soon).
 
 CogVideo - https://github.com/THUDM/CogVideo
 
