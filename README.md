@@ -9,6 +9,7 @@ List of Image generation, Text to image and other graphics generation models
 
 Stable diffusion - https://stability.ai/blog/stable-diffusion-public-release | Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
 
+Stable diffusion - XL - https://stability.ai/stable-diffusion
 
 ### Closed Source
 
