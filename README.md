@@ -26,7 +26,7 @@ Google Parti - https://parti.research.google/
 
 List of Text to Video generation models and projects
 
-Runway - Text to Video - Gen 1 and Gen 2 (coming soon).
+Runway - Text to Video - Gen 1 and Gen 2 (https://research.runwayml.com/gen2)
 
 CogVideo - https://github.com/THUDM/CogVideo
 
